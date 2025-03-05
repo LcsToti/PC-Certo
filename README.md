@@ -10,8 +10,7 @@ Tendo em vista a complexidade no processo de montagem de um computador e ausênc
 
 ## Hospedagem
 
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. [Acesse Aqui](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t4-pc-certo/codigo-fonte/Paginainicial.html)
-
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. [Acesse Aqui](https://lcstoti.github.io/PC-Certo/src/Paginainicial.html)
 ## 🖼️ Galeria
 
 ![Captura de tela 2025-02-27 102302](https://github.com/user-attachments/assets/57ca2d9c-fedc-4fac-856a-46c1070b82fb)
