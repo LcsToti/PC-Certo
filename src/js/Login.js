@@ -22,7 +22,7 @@ botaologin.addEventListener("click", function validarEmail() {
     setTimeout(() => {
       var login = true;
       localStorage.setItem("Login", login);
-      window.location.href = "../codigo-fonte/Forum.html";
+      window.location.href = "../src/Forum.html";
     }, 2000);
   } else {
     erroremail.style.display = "block";
