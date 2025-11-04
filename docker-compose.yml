@@ -1,0 +1,15 @@
+services:
+  web:
+    image: nginx:alpine
+    container_name: pc-certo
+    restart: unless-stopped
+    volumes:
+      - ./src:/usr/share/nginx/html
+      - ./nginx-config/default.conf:/etc/nginx/conf.d/default.conf
+    networks:
+      - npm-network
+
+networks:
+  npm-network:
+    external: true
+    name: npm-data_default
